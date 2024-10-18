@@ -48,18 +48,18 @@ This program performs facial recognition to identify a specific individual in a 
 
 In this section, I will post sample images of the program in action. For example, using a sample picture of Elon Musk, the program identifies him in a group of people and highlights his face with a green box.
 
-#### Placeholders for images:
+#### images:
 - **Input Individual Image (Elon Musk)**
   
-  ![Placeholder for individual image](path/to/elon_musk_face.jpg)
+  ![Elon Musk](https://github.com/user-attachments/assets/aaca44e3-fad8-46e5-8c25-2ada8b145531)
 
 - **Group Image**
 
-  ![Placeholder for group image](path/to/group_faces.jpg)
+  ![Elon Musk Group 2](https://github.com/user-attachments/assets/d6d1a3ea-1fd3-4181-9997-888d7afce1c7)
 
 - **Output Image**
 
-  ![Placeholder for output image](path/to/output_group_image.png)
+  ![output_group_image](https://github.com/user-attachments/assets/9080211e-3f64-4336-99b5-90cca93c6684)
 
 ### Notes
 
